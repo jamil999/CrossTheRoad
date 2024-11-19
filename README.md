@@ -11,3 +11,5 @@ Key Features:
 -> Collision detection for game over scenarios.
 
 -> Smooth animations and adjustable frame rate.
+
+Feel free to modify this description further to align with your style!

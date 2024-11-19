@@ -5,6 +5,9 @@ Cross The Road is a simple 2D arcade-style game built using Python and Pygame. T
 Key Features:
 
 -> Player controls with left and right arrow keys.
+
 -> Randomly generated car obstacles with varying speeds.
+
 -> Collision detection for game over scenarios.
+
 -> Smooth animations and adjustable frame rate.
